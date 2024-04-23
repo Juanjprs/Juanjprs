@@ -1,5 +1,5 @@
 # 💫 Hi, i'm Juan
-🔭 I’m currently working on a web-commerce project<br>🌱 I’m currently learning more about React<br>👯 I’m looking to collaborate on anything related to front-end<br>💬 Ask me about anything<br>📫 How to reach me: dev.juansouza@gmail.com<br>⚡ Fun fact: i'm a gym rat
+🔭 I’m currently focusing on academics<br>👯 I’m looking to collaborate on anything related to front-end<br>💬 Ask me about anything<br>📫 How to reach me: dev.juansouza@gmail.com<br>⚡ Fun fact: i'm a gym rat
 
 
 ## 🌐 Socials:
